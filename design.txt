@@ -4,7 +4,8 @@ dark blue: #033048
 light grey: #606161
 almost black: #121212
 
-Font: Open Sans (Google Font: https://www.google.com/fonts#UsePlace:use/Collection:Open+Sans)
+Font: Open Sans (Google Font)
+
 Weight: Light, Light Italic, Semibold, Extrabold
 
 "Relaxr" - Extra bold, 24px

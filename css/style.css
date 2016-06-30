@@ -4,11 +4,8 @@
   padding: 0;
 }
 
-body {
-  color: #000;
-  font-size: 12px;
-  line-height: 1.4;
-  font-family: Helvetica, Arial, sans-serif;
+header {
+  height: 700px;
   background: url("../images/header_bg.jpg") no-repeat center top;
   background-size: cover;
 }

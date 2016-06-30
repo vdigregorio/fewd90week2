@@ -24,8 +24,9 @@ Work on your website locally and view it in the browser by opening your index.ht
 
 ### Step 5 - Pull Request
 
-Send a "Pull Request".
+Send a Pull Request to submit your homework. From your fewd90week2 page on github.com (https://github.com/YOURUSERNAME/fewd90week2), click on the "New Pull Request" button and follow the prompts. 
 
 ### Step 6 - Publish with [Gitbot](http://gitbot.co/)! (optional)
 
 Want to post your fewd90week2 project on your github.io url? Log into gitbot and click the fewd90week2 repository button and VOILA! It will (perhaps after a few minutes) be viewable online at http://YOURUSERNAME.github.io/fewd90week2
+
