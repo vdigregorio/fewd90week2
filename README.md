@@ -1,4 +1,4 @@
-# Homework 2 - Relaxr
+# Homework 2 - Relaxr ([continued below](#step-1---fork-this-repository))
 
 ![Screenshot](screenshot.png)
 
