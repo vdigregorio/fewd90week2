@@ -1,6 +1,6 @@
 # Homework 2 - Relaxr
 
-![Screenshot][screenshot.png]
+![Screenshot](screenshot.png)
 
 ## Mark-Up and Style a Landing Page
 
@@ -16,7 +16,7 @@ From the repository homepage (which will be http://github.com/YOURUSERNAME/fewd9
 
 ### Step 3 - Build!
 
-Following the text in `copy.txt` and the styles defined in `design.txt`, add HTML and CSS to make 
+Following the text in `copy.txt` and the styles defined in `design.txt`, add HTML and CSS to make the site resemble `screenshot.png` as much as possible.
 
 ### Step 4 - Commit and Sync
 
