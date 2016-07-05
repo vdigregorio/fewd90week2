@@ -1,11 +1,147 @@
 /* Simple CSS Reset */
 * {
-  margin: 0;
-  padding: 0;
+  	margin: 0;
+  	padding: 0;
 }
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+h1{
+	color: white;
+	padding-left: 0px;
+	padding-top: 20px;
+	font-size: 24px;
+	font-weight: 800; 
+	margin-right: 600px;
+}
+h2{
+	margin-top: 100px;
+	text-align: center;
+	color: white;
+	font-weight: 600;
+}
+h3{
+	font-weight: 600;
+	font-size: 20px;
+	color: #033048;
+	padding-bottom: 17px;
+}
+h4{
+	font-size: 18px;
+	color: white;
+	font-weight: 600;
+}
+.container {
+	margin-top: 39px;
+	width: 100%;
+	height: 60px;
+	background-color: #f9e42e;
+	text-align: center;
+}
+.container a {
+	margin-top: 15px;
+	margin-bottom: 0px;
+	padding-top:7px;
+	padding-bottom: 7px;
+	background-color: #040738;
+	font-weight: 800;
+	font-size: 12px;
+	border-radius: 5px;
+	width: 140px;
+	display: inline-block;
+	text-decoration: none;
+	color: white;
+}
+h6{
+	padding-top: 35px;
+	margin-bottom: 20px;
+	color: yellow;
+	font-weight: 800;
+	font-size: 24px;
+}
+p{
+	font-weight: 300;
+	font-size: 13px;
+	color: #606161;
+	padding-bottom: 17px;
+}
+p #copyright {
+	font-weight: 600;
+	font-size: 9px;
+	padding: 0px;
+}
+ul{
+	font-weight: 300;
+	font-size: 13px;
+	margin-left: 30px;
+	color: #606161;
+}
+.bg1{
+  	background: url("../images/header_bg.jpg") no-repeat center top;
+  	height: 500px;
+	width: 800px;
+	text-align: center;
+	position: relative;
 
-header {
-  height: 700px;
-  background: url("../images/header_bg.jpg") no-repeat center top;
-  background-size: cover;
+}
+.bg1 a {
+	font-weight: 800;
+	font-size: 14px;
+	border-radius: 5px;
+}
+.bg2{
+	text-align: center;
+	background-color: #f0efef;
+	height: 100%;
+	width: 800px;
+}
+.box {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	width: 400px;
+	display: inline-block;
+	text-align: left;
+}
+.bg3{
+	background: url("../images/testimonial_bg.jpg") no-repeat center bottom;
+	height: 250px;
+	width: 800px;
+	text-align: center;
+	position: relative;
+}
+.blackBG {
+	width: 100%;
+	height: 200px;
+	background-color: #121212;
+	text-align: center;
+	margin-bottom: 0px;
+}
+footer{
+	display: inline-block;
+	color: white;
+}
+span{
+	display: inline-block;    
+	vertical-align: middle; 
+	margin-top: 37px;
+	font-style: italic;
+	font-weight: 300;
+	font-size: 18px;
+	position: center;
+	width: 290px;
+}
+img {
+	display: inline-block;
+	padding: 5px;
+	margin-bottom: 25px;
+}
+.button{
+	background-color: #f9e42e;
+	color: black;
+	padding: 10px;
+	padding-left: 45px;
+	padding-right: 45px;
+	text-decoration: none;
+	display: inline-block;
+	margin: 100px;
 }
